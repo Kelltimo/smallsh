@@ -1,0 +1,1 @@
+To run this program, call "gcc smallsh.c -o smallsh" then run the grading script using "p3testcript 2>&1" to view the test script results
